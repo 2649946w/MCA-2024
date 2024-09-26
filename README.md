@@ -1,5 +1,5 @@
-# \[Yiddish Music Archive\]
-##\[Week 1:\]
+# Yiddish Music Archive
+## Week 1:
 \[ Based on your own experience, what do you think are some challenges to working with music and music-related data (perhaps related to access, curation, distribution, etc.)? How does your selected theme display some of these challenges? Describe the current manifestations of data relating to your selected theme, discussing how it is presently curated (collected and gathered) and how it is presented, described, and analysed:\]
 
 \[In the modern era, access to musical data has its own new challenges. Most music is now behind paywalls that require monthly payments to maintain. Without this you will be unable to access the aocustic, live data without the service interfering with the experience whether that is adverts or recommendations you cannot skip. Without a wifi connection it is also increasingly difficult to gain access to any audio files, as the physical music market (vinyl, cassettes, physical sheet music) declines a connection to access online archives, streaming services or notation websites are an essential.\]
