@@ -7,8 +7,14 @@ Welcome to the project! This is the main README file that provides an overview o
 
 ## Table of Contents
 
-1. [Introduction](page1.md)
-2. [Installation Guide](docs/page2.md)
-3. [Usage Instructions](docs/page3.md)
+1. [Week 1](page1.md)
+2. [Week 2](docs/page2.md)
+3. [Week 3](docs/page3.md)
+4. [Week 4](page1.md)
+5. [Week 5](docs/page2.md)
+6. [Week 7](docs/page3.md)
+7. [Week 8](page1.md)
+2. [Week 9](docs/page2.md)
+3. [Week 10](docs/page3.md)
 
 Feel free to explore the pages above to learn more about this project.
