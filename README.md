@@ -7,7 +7,7 @@ Welcome to the project! This is the main README file that provides an overview o
 
 ## Table of Contents
 
-1. [Week 1](page1.md)
+1. [Week 1](Week/page1.md)
 2. [Week 2](page2.md)
 3. [Week 3](docs/page3.md)
 4. [Week 4](page1.md)
