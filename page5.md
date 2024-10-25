@@ -34,4 +34,4 @@
 
 Above is my Encoded Metadata, I hope to find a more presentable way of displaying this information. The schema I chose was Title, Year, Composer, Lyricist, Publisher, Encoder, Publisher Address, and Availability
 
-[← Back: Week 4](page2.md) | [Next: Week 7 →](page7.md)
+[← Back: Week 4](page4.md) | [Next: Week 7 →](page7.md)
