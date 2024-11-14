@@ -13,6 +13,8 @@ Sample rate
 Bits per second
 Duration
 
-The three related tracks I have chosen are If I were a rich man from Fiddler on the Roof, Moshiach, and Mazel Tov. The first track comes from the 1964 musical Fiddler on the Roof, written by Sheldon Harnick and Jerry Bock. It is sung by Tevye, the main character. The song was inspired by a monologue given by Sholem Aleichem Its title was inspired by a 1902 monologue by Sholem Aleichem in Yiddish, Ven ikh bin Rothschild (Yiddish: װען איך בין ראָטשילד; lit. “If I were a Rothschild”)
+The three related tracks I have chosen are If I were a rich man from Fiddler on the Roof, Moshiach, and Mazel Tov. The first track comes from the 1964 musical Fiddler on the Roof, written by Sheldon Harnick and Jerry Bock. It is sung by Tevye, the main character. The song was inspired by a monologue given by Sholem Aleichem, 1902, delivered in Yiddish, Ven ikh bin Rothschild (Yiddish: װען איך בין ראָטשילד; lit. “If I were a Rothschild”)
+
+The second and third track 
 
 [← Back: Week 7](page7.md) | [Next: Week 9 →](page9.md)
