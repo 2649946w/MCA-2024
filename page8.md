@@ -41,6 +41,8 @@ Bits Per Second - 2822kbps
 Duration - 1:35.434
 
 
+![ifrichmn](https://github.com/user-attachments/assets/b62d542e-979e-4018-823d-0db1d43e343e)
+![ifrichmnspectogram](https://github.com/user-attachments/assets/3273b68d-d1b6-46b0-b06d-a736558757e5)
 ## Track 2-
 
 Title - Moshiach
