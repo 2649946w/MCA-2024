@@ -2,6 +2,26 @@
 >Export the score you created last week to MusicXML and MEI. Then render your MEI file using Verovio in GitHub. In the space provided on the verovio.html page, compare 3 elements in the MusicXML file to the corresponding ones in MEI. For help, look at the MusicXML documentation.
 ![barmizvo](https://github.com/user-attachments/assets/8b056064-7d5d-4f4e-8d28-2021ebdd7906)
 
+<div class="panel-body">
+    <div id="app" class="panel" style="border: 1px solid lightgray; min-height: 800px;"></div>
+</div>
+
+<script type="module">
+    import 'https://editor.verovio.org/javascript/app/verovio-app.js';
+
+    // Create the app - here with an empty option object
+    const app = new Verovio.App(document.getElementById("app"), {});
+
+    // Load a file (MEI or MusicXML)
+    fetch("https://www.verovio.org/editor/brahms.mei")
+        .then(function(response) {
+            return response.text();
+        })
+        .then(function(text) {
+            app.loadData(text);
+        });
+</script>
+
 Above is the Verovio score, there are a few differences between this and Musescore. The first is that the image quality of the score in verovio is considerably higher than in Musescore, you can zoom in or out as far as you like without any drop in resolution. The second is the playback, Verovio highlights the notes in a bright colour currently being played so that users can follow along with what is being played as apposed to Musescore which just uses a line. The final is the ability to click on a specific bar and view only that as opposed to having zoom in on what you want, a simple click in Verovio takes you exactly where you want. 
 
 
