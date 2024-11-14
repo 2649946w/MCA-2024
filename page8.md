@@ -39,6 +39,8 @@ Sample Rate - 44100Hz
 Bits Per Second - 2822kbps
 Duration - 1:35.434
 
+
+
 Track 2-
 Title - Moshiach
 Artist - Folk Song
@@ -68,4 +70,10 @@ Number of channels - 5
 Sample Rate - 44100Hz
 Bits Per Second - 2822kbps
 Duration - 1:40.495
+
+![mazeltov](https://github.com/user-attachments/assets/fba19741-05f0-4052-a35a-f223d00bc031)
+
+![mazeltovspectogram](https://github.com/user-attachments/assets/249764a3-5a3e-4d0a-8155-0ac0b1a09dbc)
+
+
 [← Back: Week 7](page7.md) | [Next: Week 9 →](page9.md)
