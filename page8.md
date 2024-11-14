@@ -83,5 +83,7 @@ Duration - 1:40.495
 
 ![mazeltovspectogram](https://github.com/user-attachments/assets/249764a3-5a3e-4d0a-8155-0ac0b1a09dbc)
 
+## Analysis
+A key advantage of a time-frequency analysis in comparison to a waveform-based analysis is the ability to capture both the time and frequency of a signal simultaneously. In a waveform-based analysis , information regarding the changes of the signal over time is easy to extrapolate, however the user is limited in their ability to monitor changes in frequency. In the given example above, you are able to see spots where certain frequency bands expand which can allow you to understand when different sections happen or when certain instruments drop out or enter the piece. In the piece 'Moshiach' there is a section towards the end where a Xylophone and Brass section(s) enter the piece yet the volume does not increase massively. In a solely waveform based analysis, due to the lack of leap in volume, this information may be hard to draw from the available data. However, in a time-frequency analysis jumps in certain frequency bands can allow a viewer to find the point in the song where these instruments join. This, in turn, can denote a new section in the piece of music.
 
 [← Back: Week 7](page7.md) | [Next: Week 9 →](page9.md)
