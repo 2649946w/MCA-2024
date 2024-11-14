@@ -59,6 +59,10 @@ Sample Rate - 44100Hz
 Bits Per Second - 2822kbps
 Duration - 3:16.835
 
+![moshiahb](https://github.com/user-attachments/assets/4f6c8b95-2dca-4f17-b3b9-a715d2c5727d)
+![moshiahbspectogram](https://github.com/user-attachments/assets/21c5245e-dd28-4084-bc13-6e00531f28ae)
+
+
 ## Track 3-
 
 Title - Mazeltov
