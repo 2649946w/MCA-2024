@@ -1,5 +1,5 @@
 # Week 9
-#Song 1 - Maozur
+# Song 1 - Maozur
 Wave -
 ![bmmaozurwave](https://github.com/user-attachments/assets/a87d34a1-3bcb-4f07-9dfe-b869cf4802dd)
 Spectogram - 
