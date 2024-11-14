@@ -19,7 +19,8 @@ The first track comes from the 1964 musical Fiddler on the Roof, written by Shel
 
 The second and third track are classical pieces of Jewish music, typically perfomed at Bar/Bat Mitzvahs and Weddings.
 
-Track 1-
+## Track 1-
+
 Title - If I were a rich man
 Artist - Sheldon Harnick and Jerry Bock
 Composer - Sheldon Harnick and Jerry Bock
@@ -40,8 +41,8 @@ Bits Per Second - 2822kbps
 Duration - 1:35.434
 
 
+## Track 2-
 
-Track 2-
 Title - Moshiach
 Artist - Folk Song
 Composer - Folk Song
@@ -56,7 +57,8 @@ Sample Rate - 44100Hz
 Bits Per Second - 2822kbps
 Duration - 3:16.835
 
-Track 3-
+## Track 3-
+
 Title - Mazeltov
 Artist - Folk Song
 Composer - Folk Song
