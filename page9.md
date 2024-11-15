@@ -32,4 +32,7 @@ Mel Frequency Cepstral Coefficient -
 Chromagram - 
 ![havanagilachroma](https://github.com/user-attachments/assets/a0f768d0-fcec-46e5-8d97-7413599da82f)
 
+## Jupyter Notebook Files
+maozurchroma.ipynb
+
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
