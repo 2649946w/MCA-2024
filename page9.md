@@ -33,7 +33,17 @@ Chromagram -
 ![havanagilachroma](https://github.com/user-attachments/assets/a0f768d0-fcec-46e5-8d97-7413599da82f)
 
 ## Jupyter Notebook Files
+### Maozur
 [Maozur Spectogram](maozurspecto.ipynb)
-
+[Maozur Chromagram](maozurchroma.ipynb)
+[Maozur Mel Frequency Cepstral Coefficient](maozurmelfreq.ipynb)
+### Adonolam
+[Adonolam Spectogram](adonolamspecto.ipynb)
+[Adonolam Chromagram](adonolamchroma.ipynb)
+[Adonolam Mel Frequency Cepstral Coefficient](adonolammelfreq.ipynb)
+### Hava Nagila
+[Hava Nagila Spectogram](havanagilaspecto.ipynb)
+[Hava Nagila Chromagram](havanagilachroma.ipynb)
+[Hava Nagila Mel Frequency Cepstral Coefficient](havanagilamelfreq.ipynb)
 
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
