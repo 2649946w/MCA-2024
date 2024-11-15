@@ -57,6 +57,7 @@ Using the code provided in the example notebook, I created histograms for each i
 
 Looking specifically at the Mel Frequency Cepstral Coefficient, the differences between the songs is minor. The initial heat map style graph displays very minor alterations, if any, between the different songs. The line graph displays almost identical trends, aside from the the values on the axis changing  for the different songs. The histogram also show essentially identical trends, with the axis values changing between songs. The final graphs have the most difference to one another, the x axis values change aswell as the individual graphs displaying different values. However whilst the position on the y axis may adjust, all three graphs maintain the same shapes as one another. There is minor alterations but the shape of the graph is maintained.
 
-When conducting the Histogram analysis, I expected to see a great deal of difference between the songs. They have varying instrument numbers, volume levels, 
+When conducting the Histogram analysis, I expected to see a great deal of difference between the songs. They have varying instrument numbers, volume levels, and all have peaks in deficits in different frequency bands. Furthermore, when vieweing the generated Spectogram, Chromagram and Mel Frequency Cepstral Coefficient waveform analyses, the difference between the songs are visually very clear. I initially expected that due to the clear visual differences aswell as indivdual sounds found in each song that the histogram analysis would reflect this. There are a few reasons as to why these could be so similar:
+-
 
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
