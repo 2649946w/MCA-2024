@@ -47,7 +47,9 @@ Chromagram -
 [Adonolam Mel Frequency Cepstral Coefficient](adonolammelfreq.ipynb)
 ### Hava Nagila
 [Hava Nagila Spectogram](havanagilaspecto.ipynb)
+
 [Hava Nagila Chromagram](havanagilachroma.ipynb)
+
 [Hava Nagila Mel Frequency Cepstral Coefficient](havanagilamelfreq.ipynb)
 
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
