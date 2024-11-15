@@ -35,11 +35,15 @@ Chromagram -
 ## Jupyter Notebook Files
 ### Maozur
 [Maozur Spectogram](maozurspecto.ipynb)
+
 [Maozur Chromagram](maozurchroma.ipynb)
+
 [Maozur Mel Frequency Cepstral Coefficient](maozurmelfreq.ipynb)
 ### Adonolam
 [Adonolam Spectogram](adonolamspecto.ipynb)
+
 [Adonolam Chromagram](adonolamchroma.ipynb)
+
 [Adonolam Mel Frequency Cepstral Coefficient](adonolammelfreq.ipynb)
 ### Hava Nagila
 [Hava Nagila Spectogram](havanagilaspecto.ipynb)
