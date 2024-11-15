@@ -21,9 +21,12 @@ The second and third track are classical pieces of Jewish music, typically perfo
 
 ## Track 1-
 
-Title - If I were a rich man
+### Title - If I were a rich man
+
 Artist - Sheldon Harnick and Jerry Bock
+
 Composer - Sheldon Harnick and Jerry Bock
+
 Copyright Info - 
 (Orginially)
 TIMES SQUARE MUSIC PUBLICATIONS COMPANY THE GEMA
@@ -31,13 +34,21 @@ TRIO MUSIC COMPANY GEMA
 BOCK IP LLC BMI, GEMA
 MAYERLING PRODUCTIONS LTD BMI
 R AND H MUSIC COMPANY BMI
+
 Encoded by -https://jr.co.il/music/midi/jewish.htm
+
 Genre - Theatre, Klezmer
+
 Source - https://jr.co.il/music/midi/jewish.htm
+
 File/audio format - Midi
+
 Number of channels - 6
+
 Sample Rate - 44100Hz
+
 Bits Per Second - 2822kbps
+
 Duration - 1:35.434
 
 
@@ -45,18 +56,29 @@ Duration - 1:35.434
 ![ifrichmnspectogram](https://github.com/user-attachments/assets/3273b68d-d1b6-46b0-b06d-a736558757e5)
 ## Track 2-
 
-Title - Moshiach
+### Title - Moshiach
+
 Artist - Folk Song
+
 Composer - Folk Song
+
 Copyright Info - 
 No Stated Copyright
+
 Encoded by -https://jr.co.il/music/midi/jewish.htm
+
 Genre - Klezmer, Traditional Jewish Folk
+
 Source - https://jr.co.il/music/midi/jewish.htm
+
 File/audio format - Midi
+
 Number of channels - 6
+
 Sample Rate - 44100Hz
+
 Bits Per Second - 2822kbps
+
 Duration - 3:16.835
 
 ![moshiahb](https://github.com/user-attachments/assets/4f6c8b95-2dca-4f17-b3b9-a715d2c5727d)
@@ -65,18 +87,29 @@ Duration - 3:16.835
 
 ## Track 3-
 
-Title - Mazeltov
+### Title - Mazeltov
+
 Artist - Folk Song
+
 Composer - Folk Song
+
 Copyright Info - 
 No Stated Copyright
+
 Encoded by -https://jr.co.il/music/midi/jewish.htm
+
 Genre - Klezmer, Traditional Jewish Folk
+
 Source - https://jr.co.il/music/midi/jewish.htm
+
 File/audio format - Midi
+
 Number of channels - 5
+
 Sample Rate - 44100Hz
+
 Bits Per Second - 2822kbps
+
 Duration - 1:40.495
 
 ![mazeltov](https://github.com/user-attachments/assets/fba19741-05f0-4052-a35a-f223d00bc031)
