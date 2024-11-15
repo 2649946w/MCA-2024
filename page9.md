@@ -52,4 +52,11 @@ Chromagram -
 
 [Hava Nagila Mel Frequency Cepstral Coefficient](havanagilamelfreq.ipynb)
 
+## Analysis
+Using the code provided in the example notebook, I created histograms for each individual CSV file. I did this in order to compare the minute changes between songs and waveform analysis type. I ran into a slight promblem that I was unable to fix in the creation of the individual histograms. An error was appearing stating - IndexError: index 3 is out of bounds for axis 1 with size 3. This was something that I was unable to fix. However, the program was still able to output histograms that contained variation from one another so it did not ruin the data analysis entirely.
+
+Looking specifically at the Mel Frequency Cepstral Coefficient, the differences between the songs is minor. The initial heat map style graph displays very minor alterations, if any, between the different songs. The line graph displays almost identical trends, aside from the the values on the axis changing  for the different songs. The histogram also show essentially identical trends, with the axis values changing between songs. The final graphs have the most difference to one another, the x axis values change aswell as the individual graphs displaying different values. However whilst the position on the y axis may adjust, all three graphs maintain the same shapes as one another. There is minor alterations but the shape of the graph is maintained.
+
+When conducting the Histogram analysis, I expected to see a great deal of difference between the songs. They have varying instrument numbers, volume levels, 
+
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
