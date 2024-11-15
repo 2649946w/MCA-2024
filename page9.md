@@ -33,7 +33,7 @@ Chromagram -
 ![havanagilachroma](https://github.com/user-attachments/assets/a0f768d0-fcec-46e5-8d97-7413599da82f)
 
 ## Jupyter Notebook Files
-[https://github.com/github/MCA-2024/main/maozurmelfreq.ipynb]
+[Maozur Spectogram](mazourspecto.ipynb)
 
 
 [← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
