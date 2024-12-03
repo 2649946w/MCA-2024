@@ -51,8 +51,9 @@ Bits Per Second - 2822kbps
 
 Duration - 1:35.434
 
-
+## Wave
 ![ifrichmn](https://github.com/user-attachments/assets/b62d542e-979e-4018-823d-0db1d43e343e)
+## Spectogram
 ![ifrichmnspectogram](https://github.com/user-attachments/assets/3273b68d-d1b6-46b0-b06d-a736558757e5)
 ## Track 2-
 
@@ -81,7 +82,9 @@ Bits Per Second - 2822kbps
 
 Duration - 3:16.835
 
+## Wave
 ![moshiahb](https://github.com/user-attachments/assets/4f6c8b95-2dca-4f17-b3b9-a715d2c5727d)
+## Spectogram
 ![moshiahbspectogram](https://github.com/user-attachments/assets/21c5245e-dd28-4084-bc13-6e00531f28ae)
 
 
@@ -112,8 +115,9 @@ Bits Per Second - 2822kbps
 
 Duration - 1:40.495
 
+## Wave
 ![mazeltov](https://github.com/user-attachments/assets/fba19741-05f0-4052-a35a-f223d00bc031)
-
+## Spectogram
 ![mazeltovspectogram](https://github.com/user-attachments/assets/249764a3-5a3e-4d0a-8155-0ac0b1a09dbc)
 
 ## Analysis
