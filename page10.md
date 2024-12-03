@@ -1,4 +1,4 @@
-**Week 10
+# Week 10
 
 [Similarity Analysis File](week10similarity_20191125a.ipynb)
 
