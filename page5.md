@@ -34,4 +34,6 @@
 
 Above is my Encoded Metadata, I hope to find a more presentable way of displaying this information. The schema I chose was Title, Year, Composer, Lyricist, Publisher, Encoder, Publisher Address, and Availability
 
+<img width="956" alt="Screenshot 2024-12-03 at 15 54 32" src="https://github.com/user-attachments/assets/3b505efb-538c-4b6a-922d-f06adcb119ff">
+
 [← Back: Week 4](page4.md) | [Next: Week 7 →](page7.md)
