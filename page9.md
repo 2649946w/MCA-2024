@@ -64,4 +64,4 @@ Similarity in style - The Klezmer music genere and classical Jewish folk songs s
 
 Histogram type: As the histograms generated are analyzing the same standard set of characteristics (volume, frequency content, dynamic range) the output will display many similarities.
 
-[← Back: Week 8](page8.md) | [Next: ReadMe →](README.md)
+[← Back: Week 8](page8.md) | [Next: Week 10 →](page10.md)
